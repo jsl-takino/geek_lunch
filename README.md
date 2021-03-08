@@ -62,9 +62,10 @@ PDCAサイクルが向いている仕事はもちろんあります。
 PDCAサイクルは非常に強固なフレームワークなため、臨機応変な対応が迫られる仕事には不向きだという特徴から「フレキシブル＝柔軟」「アジャイル」などがもてはやされている昨今では「時代遅れ」と言われる所以かもしれません。
 
 ### 参考文献
-[PDCAとは？ 致命的な問題点、失敗する原因、企業事例](https://www.kaonavi.jp/dictionary/pdca/)
-[PDCAサイクルの問題点とは？より柔軟なOODAループを紹介](https://crowd.itpropartners.com/pieceblog/2295)
-[PDCAは古い？失敗する原因と「OODA（ウーダ）」について理解しよう](https://tayori.com/blog/pdca/)
+
+[PDCAとは？ 致命的な問題点、失敗する原因、企業事例](https://www.kaonavi.jp/dictionary/pdca/)  
+[PDCAサイクルの問題点とは？より柔軟なOODAループを紹介](https://crowd.itpropartners.com/pieceblog/2295)  
+[PDCAは古い？失敗する原因と「OODA（ウーダ）」について理解しよう](https://tayori.com/blog/pdca/)  
 
 ## 今の時代はOODAループだとか言われるけど...
 ![](https://teamhackers.io/wp-content/uploads/2019/03/chart1.png)
@@ -83,10 +84,10 @@ OODAループは以下4つのプロセスで行われます。
 
 例)
 
-Observe -> 今自分にどれだけの技術力があるのか、何が得意で何が不得意かを知る
-Orient -> フロントエンドの能力が足りないのでは？インフラの知識が遅れているのでは？ == 技術スタックの強化という方向性
-Decide -> Udemyの講座を受講してみてはどうか。勉強会や読書会へ参加してみてはどうか。
-Act -> 実際にUdemyの講座を購入。勉強会や読書会へ参加
+Observe -> 今自分にどれだけの技術力があるのか、何が得意で何が不得意かを知る  
+Orient -> フロントエンドの能力が足りないのでは？インフラの知識が遅れているのでは？ == 技術スタックの強化という方向性  
+Decide -> Udemyの講座を受講してみてはどうか。勉強会や読書会へ参加してみてはどうか。  
+Act -> 実際にUdemyの講座を購入。勉強会や読書会へ参加  
 
 Loop ...
 * TypeScriptの知見が強化された。
@@ -124,19 +125,18 @@ Loop ...
 
 ### 参考文献
 
-[OODAループを取り入れるメリット5つ紹介! PDCAとの違いは?](https://news.mynavi.jp/article/20200910-1271617)
-[OODAループをビジネスに活用する具体例
-～"前例踏襲"が通用しない時代を勝ち抜く！](https://www.insource.co.jp/contents/column_oodaloop.html)
-[PDCAサイクルとOODAループ、新しいプロジェクトを進めるにあたってのその本質とは](https://teamhackers.io/the-essence-of-pdca-and-ooda/)
-[３分で解る！PDCAサイクルとOODA（ウーダ）ループの違いと使い分け｜スッキリ解説！](https://suplab.jp/pdcaooda721191/#pdcaooda01)
+[OODAループを取り入れるメリット5つ紹介! PDCAとの違いは?](https://news.mynavi.jp/article/20200910-1271617)  
+[OODAループをビジネスに活用する具体例 ～"前例踏襲"が通用しない時代を勝ち抜く！](https://www.insource.co.jp/contents/column_oodaloop.html)  
+[PDCAサイクルとOODAループ、新しいプロジェクトを進めるにあたってのその本質とは](https://teamhackers.io/the-essence-of-pdca-and-ooda/)  
+[３分で解る！PDCAサイクルとOODA（ウーダ）ループの違いと使い分け｜スッキリ解説！](https://suplab.jp/pdcaooda721191/#pdcaooda01)  
 
 ## 改めて色々調べてみての感想
 
 ![meigen](https://user-images.githubusercontent.com/25785388/109687555-b546f700-7bc6-11eb-870c-a8cd1cfc6977.png)
 
-Windows XPはもう化石だからWindows 10にしようね、といった単純な話ではないのですが、
-2つの違いを調べる人が多い＝同じものだと混同してる人が多い、と推測できます。
-もともと製造業にいた身としては確かにPDCAサイクルが良いと感じる部分があったので、
+Windows XPはもう化石だからWindows 10にしようね、といった単純な話ではないのですが、  
+2つの違いを調べる人が多い＝同じものだと混同してる人が多い、と推測できます。  
+もともと製造業にいた身としては確かにPDCAサイクルが良いと感じる部分があったので、  
 PDCAサイクルが合わなかった業種の話が曲解されて広まったのではないかと考えます :thinking: 
 
 アジャイルとウォーターフォールは似たような話ですね。
